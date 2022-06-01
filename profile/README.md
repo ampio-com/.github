@@ -1,4 +1,4 @@
-![](banner.png)
+![](profile/banner.png)
 
 # Welcome to Ampio Smart Home!
 
